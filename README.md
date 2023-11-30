@@ -1,1 +1,1 @@
-# discover
+# read me
